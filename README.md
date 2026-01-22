@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/2264918.jpeg" alt="Jiahui Chen" width="220" style="border-radius:999px;" />
+  <img src="./2264918.jpeg" alt="Jiahui Chen" width="220" style="border-radius:999px;" />
 </p>
 
 <h2 align="center">Hi there 👋 I’m Jiahui Chen</h2>
