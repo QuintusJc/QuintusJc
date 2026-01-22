@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Jiahui Chen
 
-<!--
-**QuintusJc/QuintusJc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a UX/UI designer with a strong data & systems background. I care about accessibility, localization, cultural preservation, and building human-centered products that work in the real world.
 
-Here are some ideas to get you started:
+## About
+- 🎓 Background: Mathematics (Imperial College London) + UX/HCI coursework (UW iSchool)
+- 🤖 UX/UI Intern (Robotics, inGen Dynamics): prototyping, usability testing, improving interaction flows & design-system consistency with engineers
+- 📊 Data + evaluation: Python / R / SQL, analysis and responsible ML thinking (bias, trade-offs, metrics)
+- 🌍 Interests: accessibility, multilingual design, digital heritage, ethical product design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects (selected)
+- **Wordplay — UI/UX Redesign & Localization**  
+  UI redesign + localization improvements to support multilingual users and accessibility-focused experiences.
+- **Emotional Wellness App (Pregnancy Support)**  
+  Human-centered interaction flows for sensitive contexts, emphasizing trust, clarity, and support.
+- **Illegal Fishing Tracking System**  
+  Data + interface concept for tracking and communicating illegal fishing activity to stakeholders.
+- **INFO 340 Web Project**  
+  Multi-file front-end build (HTML/CSS + JS/JSX), responsive layout and UI components.
+
+## Skills
+- **Design:** Figma, prototyping, interaction design, usability testing, accessibility, localization
+- **Data:** Python (pandas/NumPy), R, SQL, Tableau
+- **Dev:** HTML/CSS, JavaScript/JSX, Git, VS Code, macOS Terminal
+
+## Contact
+- LinkedIn: <PASTE_YOUR_LINKEDIN_URL>
+- Resume/CV: <PASTE_YOUR_RESUME_URL>
+- Portfolio site: https://quintusjc.github.io/jiahui-portfolio/
+- Email: <PASTE_YOUR_EMAIL>
+
