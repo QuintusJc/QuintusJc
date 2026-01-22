@@ -1,26 +1,22 @@
-<table>
-  <tr>
-    <td width="220" valign="top" style="padding-right:18px;">
-      <img src="https://raw.githubusercontent.com/QuintusJc/QuintusJc/main/2264918.jpeg" alt="Jiahui Chen" width="200" style="border-radius:50%;" />
-    </td>
-    <td valign="top">
-      <h1>Hi there 👋 I’m Jiahui Chen</h1>
-      <p><b>UX/UI</b> · Human-Centered Systems · Data-Driven Prototyping ✨</p>
+<p align="center">
+  <img src="./2264918.jpeg" alt="Jiahui Chen" width="170" />
+</p>
 
-      <p>
-        🔗 <a href="https://www.linkedin.com/in/jiahuichen1020/">LinkedIn</a>
-        &nbsp;·&nbsp; ✉️ <a href="mailto:jc3752@uw.edu">jc3752@uw.edu</a>
-        &nbsp;·&nbsp; 💻 <a href="https://github.com/QuintusJc">GitHub</a>
-        &nbsp;·&nbsp; 📄 <a href="#">Resume (PDF)</a>
-      </p>
+<h1 align="center">Hi there 👋 I'm Jiahui Chen</h1>
 
-      <p>
-        I’m a UX/UI designer who builds accessible, human-centered interfaces and data-informed prototypes.
-        I’m especially interested in accessibility ♿, cultural preservation 🌏, and human-robot interaction 🤖.
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  UX/UI · Human-Centered Systems · Data-Driven Prototyping ✨
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jiahuichen1020/">LinkedIn</a>
+  ·
+  <a href="mailto:jc3752@uw.edu">jc3752@uw.edu</a>
+  ·
+  <a href="#">Resume (PDF)</a>
+  ·
+  <a href="https://github.com/QuintusJc">GitHub</a>
+</p>
 
 
 ---
