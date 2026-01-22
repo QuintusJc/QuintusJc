@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="220" valign="top" style="padding-right:18px;">
-      <img src="./2264918.jpeg" alt="Jiahui Chen" width="200" style="border-radius:50%;" />
+      <img src="https://raw.githubusercontent.com/QuintusJc/QuintusJc/main/2264918.jpeg" alt="Jiahui Chen" width="200" style="border-radius:50%;" />
     </td>
     <td valign="top">
       <h1>Hi there 👋 I’m Jiahui Chen</h1>
@@ -10,8 +10,8 @@
       <p>
         🔗 <a href="https://www.linkedin.com/in/jiahuichen1020/">LinkedIn</a>
         &nbsp;·&nbsp; ✉️ <a href="mailto:jc3752@uw.edu">jc3752@uw.edu</a>
-        &nbsp;·&nbsp; 📄 <a href="#">Resume (PDF)</a>
         &nbsp;·&nbsp; 💻 <a href="https://github.com/QuintusJc">GitHub</a>
+        &nbsp;·&nbsp; 📄 <a href="#">Resume (PDF)</a>
       </p>
 
       <p>
