@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jiahuichen1020/">LinkedIn</a>
   ·
-  <a href="mailto:jc3752@uw.edu">jc3752@uw.edu</a>
+  <a href="mailto:jc375@uw.edu">jc375@uw.edu</a>
   ·
   <a href="https://github.com/QuintusJc/QuintusJc/blob/main/resume.pdf" target="_blank" rel="noopener">Resume (PDF)</a>
   ·
