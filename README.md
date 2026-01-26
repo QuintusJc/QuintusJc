@@ -83,7 +83,7 @@ Here are a few things I’ve built / designed (I’m always refining case studie
 
 ## Contact 📬
 If you want to chat about UX, accessibility, HRI, or portfolio feedback:
-- 📧 Email: **jc3752@uw.edu**
+- 📧 Email: **jc375@uw.edu**
 - 🔗 LinkedIn: https://www.linkedin.com/in/jiahuichen1020/
 
 ---
