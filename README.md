@@ -13,7 +13,7 @@
   ·
   <a href="mailto:jc3752@uw.edu">jc3752@uw.edu</a>
   ·
-  <a href="#">Resume (PDF)</a>
+  <a href="./resume.pdf" target="_blank" rel="noopener">Resume (PDF)</a>
   ·
   <a href="https://github.com/QuintusJc">GitHub</a>
 </p>
