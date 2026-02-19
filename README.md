@@ -1,4 +1,4 @@
-```html
+
 <p align="center">
   <img src="./2264918.jpeg" alt="Jiahui Chen" width="170" />
 </p>
@@ -84,4 +84,4 @@ LinkedIn: https://www.linkedin.com/in/jiahuichen1020/
 <p align="center">
   Thanks for visiting!
 </p>
-```
+
