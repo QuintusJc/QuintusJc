@@ -1,3 +1,4 @@
+```html
 <p align="center">
   <img src="./2264918.jpeg" alt="Jiahui Chen" width="170" />
 </p>
@@ -5,7 +6,7 @@
 <h1 align="center">Hi there 👋 I'm Jiahui Chen</h1>
 
 <p align="center">
-  UX/UI · Human-Centered Systems · Data-Driven Prototyping ✨
+  UX/UI Designer · Accessibility · Localization · Human-Centered Systems
 </p>
 
 <p align="center">
@@ -18,76 +19,69 @@
   <a href="https://github.com/QuintusJc">GitHub</a>
 </p>
 
+---
+
+## About
+I’m a UX/UI designer who builds interfaces that feel clear, accessible, and human. I work at the intersection of design, research, and data, and I’m especially interested in accessibility, multilingual and localized UX, and human-robot interaction.
+
+Right now, I’m focused on interaction design and usability testing, translating messy requirements into simple flows that are easy to understand and easy to use.
 
 ---
 
-## About 🙋‍♀️
-I’m a UX/UI designer who loves building interfaces that feel **clear, accessible, and human**.  
-My work sits at the intersection of **design + research + data**, and I’m especially interested in:
-- ♿ Accessibility & inclusive interaction design  
-- 🌏 Cultural preservation & multilingual/localized UX  
-- 🤖 Human-robot interaction (HRI) and interface prototyping  
-- 📊 Data-informed decision making and evaluation  
+## Projects
+A few projects I’ve designed and built. I’m continuing to refine case studies and add visuals.
 
-**Currently:** focusing on interaction design + usability testing + turning messy requirements into simple, usable flows ✅
+### Wordplay
+UI/UX Redesign and Localization  
+I improved onboarding clarity and interaction flow, with design decisions that support multilingual users and accessibility minded UI.  
+Keywords: UX redesign · localization · accessibility
 
----
+### Emotional Wellness App
+Pregnancy Support  
+I designed supportive user flows for sensitive contexts, with emphasis on trust, tone, and emotional safety.  
+Keywords: human-centered design · prototyping · empathy
 
-## Projects 🧩
-Here are a few things I’ve built / designed (I’m always refining case studies & adding visuals 📌):
+### Illegal Fishing Tracking System
+System Concept and Information Design  
+I designed a concept to track and communicate illegal fishing activity, balancing clarity with different stakeholder needs.  
+Keywords: data + interface · storytelling · system thinking
 
-### 🎨 Wordplay — UI/UX Redesign & Localization
-- Improved onboarding clarity and interaction flow
-- Supported multilingual users and accessibility-minded UI decisions  
-**Keywords:** UX redesign · localization · accessibility
-
-### 🤰 Emotional Wellness App (Pregnancy Support)
-- Designed supportive user flows for sensitive contexts
-- Focused on trust, tone, and emotional safety  
-**Keywords:** human-centered design · prototyping · empathy
-
-### 🐟 Illegal Fishing Tracking System
-- Designed a system concept to track and communicate illegal fishing activity
-- Balanced information clarity with stakeholder needs  
-**Keywords:** data + interface · storytelling · system thinking
-
-### 💻 INFO 340 Web Project
-- Built a multi-file front-end project with responsive layout and clean UI components  
-**Keywords:** HTML/CSS · JavaScript/JSX · responsive UI
+### INFO 340 Web Project
+Front End Development  
+I built a multi file front end project with responsive layout and reusable UI components.  
+Keywords: HTML/CSS · JavaScript/JSX · responsive UI
 
 ---
 
-## Skills 🛠️
-**Design 🎨**
-- Figma · Prototyping · Interaction Design · Usability Testing · Accessibility · Localization
+## Skills
+Design  
+Figma · prototyping · interaction design · usability testing · accessibility · localization
 
-**Data 📈**
-- Python (pandas/NumPy) · R · SQL · Tableau · Basic ML evaluation
+Data  
+Python (pandas/NumPy) · R · SQL · Tableau · basic model evaluation
 
-**Development 💻**
-- HTML/CSS · JavaScript (JSX) · Git/GitHub · VS Code · macOS Terminal
-
----
-
-## Experience 💼
-- 🤖 **UX/UI Design Intern — inGen Dynamics (Robotics)**  
-  Interviews / surveys / usability testing · interactive prototyping · design consistency with engineers
-
-- 🧠 **Algorithm Intern — Hive Culture (Recommender Systems)**  
-  Recommendation evaluation · engagement trade-offs · bias & filter-bubble risk awareness
-
-- 🏛️ **Digital Heritage Project — Web Dev & Field Research**  
-  Bilingual interactive website · documentation support · cultural storytelling
+Development  
+HTML/CSS · JavaScript (JSX) · Git/GitHub · VS Code · macOS Terminal
 
 ---
 
-## Contact 📬
-If you want to chat about UX, accessibility, HRI, or portfolio feedback:
-- 📧 Email: **jc375@uw.edu**
-- 🔗 LinkedIn: https://www.linkedin.com/in/jiahuichen1020/
+## Experience
+UX/UI Design Intern, inGen Dynamics, Robotics  
+Conducted interviews, surveys, and usability tests, then turned findings into interactive prototypes and consistent UI patterns for engineering handoff
+
+Algorithm Intern, Hive Culture, Recommender Systems  
+Supported recommendation evaluation, analyzed engagement trade offs, and considered bias and filter bubble risks in model decisions
+
+Digital Heritage Project, Web Dev and Field Research  
+Built bilingual web pages, supported documentation, and helped present cultural stories in a clear and respectful way
 
 ---
+
+## Contact
+Email: jc375@uw.edu  
+LinkedIn: https://www.linkedin.com/in/jiahuichen1020/
 
 <p align="center">
-  ✨ Thanks for visiting! ✨
+  Thanks for visiting!
 </p>
+```
