@@ -51,6 +51,58 @@ Front End Development
 I built a multi file front end project with responsive layout and reusable UI components.  
 Keywords: HTML/CSS · JavaScript/JSX · responsive UI
 
+## Capstone Project: Scam Prevention Support for Older Adults
+### Overview
+
+For my Capstone project, my team is designing a scam prevention tool to support older adults when they encounter suspicious websites, messages, or online actions. Our current concept combines a browser extension and a web dashboard that help users identify potential scam signals in real time and respond in a safer way. Instead of simply labeling something as “safe” or “unsafe,” we want the system to provide a clearer risk assessment and explain why something may be suspicious in plain language.
+
+This project is grounded in the idea that older adults are often targeted by scams that create urgency, fear, or confusion. Because of that, trust, clarity, accessibility, and emotional support are central to our design process.
+
+### Project Goals
+
+As a team, our goal is to create a tool that helps older adults recognize suspicious situations before they make harmful decisions, such as clicking unsafe links, sending money, or sharing sensitive information. We also want the product to feel supportive rather than intimidating, so users can understand the warning and decide what to do next.
+
+At this stage of the project, our goals have been:
+
+- define the core user need around scam detection and intervention
+- design a flow that fits older adults’ habits and comfort levels
+- move from a simple binary warning system toward a more realistic risk-level model
+- explore how the tool can connect users with a trusted contact when extra support is needed
+Process
+
+Our team began by researching scam risks that older adults commonly face and thinking about where intervention could happen most effectively. Through our early design and testing process, we focused on situations where a user might encounter a suspicious webpage, message, or request and need immediate guidance.
+
+As a team, we worked on shaping the overall concept, defining the main user journey, and refining the product direction based on feedback. We discussed how the browser extension, dashboard, and trusted-contact flow could work together as one system instead of separate features. We also revisited our MVP presentation and spring project plan to identify which parts needed to become more realistic, actionable, and technically feasible.
+
+### My Contributions
+
+My individual contributions focused mainly on user experience thinking, feature framing, and interface communication. I helped think through how the warning experience should appear to users, how the product could explain scam risk more clearly, and how the flow could feel understandable and supportive for older adults instead of overwhelming.
+
+I also contributed to refining the project narrative by helping connect our research, concept, and design decisions more clearly. In particular, I spent time thinking about accessibility, emotional clarity, and how to design a system that users can trust in stressful situations.
+
+### What I’ve Learned
+
+This project has taught me that designing for safety is not just about detection accuracy. It is also about communication, timing, emotional response, and trust. Even if a system can detect risk well, it will not help users much unless the interface explains the issue clearly and gives them a manageable next step.
+
+I have also learned more about designing for older adults, especially the importance of simple language, clear visual hierarchy, accessible interactions, and reducing cognitive overload. From a teamwork perspective, I learned how valuable it is to keep revisiting the project scope and making sure our features still connect back to the real user need.
+
+### Current Takeaways
+
+So far, one of the biggest takeaways from this project is that scam prevention cannot rely on a single yes-or-no judgment. Real situations are often more complex, so a graded risk model and a plain-language explanation system may be more useful than a simple alert.
+
+Another key takeaway is that support matters just as much as warning. In many scam-related situations, users may need reassurance, guidance, or a way to reach someone they trust. That insight has shaped how we think about the trusted-contact feature and the overall user flow.
+
+### Next Steps
+
+Moving forward, our next steps are to improve the end-to-end experience of the product and make the system feel more realistic and reliable. This includes:
+
+- improving how the browser extension captures suspicious signals
+- developing a lightweight scoring system that combines those signals into a clearer risk level
+- adding plain-language explanations so users understand why something was flagged
+- strengthening the trusted-contact flow
+- refining accessibility details such as wording, contrast, and readability
+- connecting the dashboard and core pages into a more complete experience
+
 ---
 
 ## Skills
